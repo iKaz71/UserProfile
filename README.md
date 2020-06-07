@@ -6,6 +6,7 @@ A new Flutter project.
 
 Flutter create 'un nombre'
 pega en el main de dart el archivo dentro de lib 
+ tambien hay una modificacion en el archivo yaml 
 
 este es el resultado final 
 
